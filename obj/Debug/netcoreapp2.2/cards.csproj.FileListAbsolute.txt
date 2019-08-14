@@ -1,0 +1,4 @@
+/Users/chachi/Desktop/C#/cards/obj/Debug/netcoreapp2.2/cards.csprojAssemblyReference.cache
+/Users/chachi/Desktop/C#/cards/obj/Debug/netcoreapp2.2/cards.csproj.CoreCompileInputs.cache
+/Users/chachi/Desktop/C#/cards/obj/Debug/netcoreapp2.2/cards.AssemblyInfoInputs.cache
+/Users/chachi/Desktop/C#/cards/obj/Debug/netcoreapp2.2/cards.AssemblyInfo.cs
